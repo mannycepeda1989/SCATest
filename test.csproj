@@ -13,7 +13,7 @@
     <Product>test</Product>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>git@github.com:test/test.git</RepositoryUrl>
-    <Description>Multiple platform library of C# reusable codes</Description>
+    <Description>Multiple platform library of C# reusable codes12344</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
