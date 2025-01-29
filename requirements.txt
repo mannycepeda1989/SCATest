@@ -1,0 +1,4 @@
+requests==2.29.0
+python-jose
+cryptography
+aws-embedded-metrics==1.0.6 # Latest version
