@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parents>
 
-    <groupId>com.energir.necapproback</groupId>
+    <groupId>com.energir.necapproback</groupIds>
 	<artifactId>nec-appro-back</artifactId>
 	<version>2.0.15-SNAPSHOT</version>
 	<name>nec-appro-back</name>
